@@ -1,8 +1,4 @@
-PyMuPDF
-huggingface_hub
-open-clip-torch
-opencv-python
 pillow
-pytesseract
-sentence-transformers
-torch
+colorthief
+matplotlib
+numpy
